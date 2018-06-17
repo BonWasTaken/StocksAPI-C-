@@ -1,0 +1,10 @@
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Debug\StocksAPIExampleApp.exe.config
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Debug\StocksAPIExampleApp.exe
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Debug\StocksAPIExampleApp.pdb
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Debug\StocksAPIExampleApp.csprojAssemblyReference.cache
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Debug\StocksAPIExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Debug\StocksAPIExampleApp.csproj.CopyComplete
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Debug\StocksAPIExampleApp.exe
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Debug\StocksAPIExampleApp.pdb
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Debug\StocksAPI.dll
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Debug\Newtonsoft.Json.dll

@@ -1,0 +1,8 @@
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Release\StocksAPIExampleApp.exe.config
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Release\StocksAPIExampleApp.exe
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Release\StocksAPIExampleApp.pdb
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\bin\Release\StocksAPI.dll
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Release\StocksAPIExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Release\StocksAPIExampleApp.csproj.CopyComplete
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Release\StocksAPIExampleApp.exe
+C:\Users\Wirus\source\repos\StocksAPIExampleApp\StocksAPIExampleApp\obj\Release\StocksAPIExampleApp.pdb

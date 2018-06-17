@@ -1,0 +1,9 @@
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\bin\Release\StocksAPI.dll
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\bin\Release\StocksAPI.pdb
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\obj\Release\StocksAPI.csprojAssemblyReference.cache
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\obj\Release\StocksAPI.csproj.CoreCompileInputs.cache
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\obj\Release\StocksAPI.csproj.CopyComplete
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\obj\Release\StocksAPI.dll
+C:\Users\Wirus\Desktop\StocksAPI\StocksAPI\obj\Release\StocksAPI.pdb
